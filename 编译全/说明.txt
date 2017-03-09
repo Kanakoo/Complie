@@ -1,0 +1,12 @@
+src/xyz/moyuyc/graph 中放的是第二次作业 正则=》NFA=》DFA=》MFA 中的图类
+src/xyz/moyuyc/model 中
+   BinTree是第二次作业中正则到图的中间结构二叉树
+   Convert是常用一些转换类
+   RegExpress是第二次作业中正则=》树=》NFA
+   WordPlyer是第一次作业词法分析器
+src/xyz/moyuyc/Servlet 中放的是第二次作业中前端后端数据交接的Servlet
+src/xyz/moyuyc/work3 中Compiler放的是第三第四次作业，利用递归下降语法分析实现，
+  new Compiler().start("1+2/4");调用
+
+web/放的是第二次作业前端代码和第三方json包
+第二次作业线上地址为http://moyuyc.xyz/compiler/
